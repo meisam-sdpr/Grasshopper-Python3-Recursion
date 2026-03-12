@@ -5,7 +5,7 @@ Generating network structures using Python coding in Grasshopper.
 
 In this project, I built a model to demonstrate how **recursive functions** work. The tree-like form seen in the image is simply the visual output of this logic.
 
-![Grasshopper Script](01.jpg)
+https://github.com/meisam-sdpr/Grasshopper-Python3-Recursion/blob/main/01.png
 
 ### The Workflow:
 First, I wrote a script using the **Python 3 (Py3)** component in Grasshopper. This code relies on recursive logic to generate the overall structure and the network of branching lines.
