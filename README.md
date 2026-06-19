@@ -1,4 +1,4 @@
-# Generative-Design-with-Python3
+# Generative Design with Python 3
 This project grows tree-like branching structures from a single seed point,
 using recursive logic scripted with the Python 3 component in Grasshopper.
 A few simple parameters control how the form develops.💡
