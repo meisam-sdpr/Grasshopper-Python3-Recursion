@@ -6,7 +6,7 @@ A few simple parameters control how the form develops.💡
 ![Grasshopper Script](01.png)
 
 ### The Workflow:
-First, I wrote a script using the Python 3 (Py3) component in Grasshopper. This code relies on recursive logic to generate the overall branching structure.
+First, I wrote a script using the **Python 3 (Py3)** component in Grasshopper. This code relies on recursive logic to generate the overall branching structure.
 
 Here are the variables for this section:
 🔸 **Inputs:** Random Seed, Base Point, and Growth Logic (Length and Angle)
