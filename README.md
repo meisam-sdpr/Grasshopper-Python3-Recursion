@@ -1,9 +1,7 @@
 # Generative-Design-with-Python3
-Generative branching structures created with recursive Python scripting in Grasshopper.
-
-# Python 3 inside Grasshopper! 
-
-In this project, I built a model to demonstrate how recursive functions work. The tree-like form seen in the image is the visual output of this logic. 💡
+This project grows tree-like branching structures from a single seed point,
+using recursive logic scripted with the Python 3 component in Grasshopper.
+A few simple parameters control how the form develops. 💡
 
 ![Grasshopper Script](01.png)
 
