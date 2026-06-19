@@ -1,5 +1,5 @@
 # Generative-Design-with-Python3
-Generating network structures using Python coding in Grasshopper.
+Generative branching structures created with recursive Python scripting in Grasshopper.
 
 # Python 3 inside Grasshopper! 
 
